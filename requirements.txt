@@ -4,7 +4,7 @@ tritonclient[all]
 grpc
 opencv-python-headless
 setuptools
-
+protobuf 3.10.1
 numpy
 opencv-python-headless
 
