@@ -1,7 +1,3 @@
 
-tritonclient[all]
-opencv-python-headless
-setuptool
-numpy
 
 
