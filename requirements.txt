@@ -4,29 +4,8 @@ tritonclient[all]
 grpc
 opencv-python-headless
 setuptools
-# YOLOv5 requirements
-# Usage: pip install -r requirements.txt
 
-# Base ----------------------------------------
-
-numpy>=1.18.5
+numpy
 opencv-python-headless
 
-
-# Logging -------------------------------------
-
-# wandb
-
-# Plotting ------------------------------------
-
-# Export --------------------------------------
-# coremltools>=4.1  # CoreML export
-# onnx>=1.9.0  # ONNX export
-# onnx-simplifier>=0.3.6  # ONNX simplifier
-# scikit-learn==0.19.2  # CoreML quantization
-# tensorflow>=2.4.1  # TFLite export
-# tensorflowjs>=3.9.0  # TF.js export
-# openvino-dev  # OpenVINO export
-
-# Extras --------------------------------------
 streamlit
