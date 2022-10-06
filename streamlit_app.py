@@ -29,7 +29,8 @@ def main():
             st.text("Original Image")
             st.image(our_image)
             image_process = image_detect(trition_client, our_image)
-            image_process.process()
+            res = image_process.process()
+            st.image(res)
     elif choice == 'About':
         st.subheader("About")
 if __name__ == '__main__':
