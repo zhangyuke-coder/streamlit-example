@@ -1,5 +1,7 @@
 
 tritonclient[all]
+protobuf<4.21.3
+grpc
 opencv-python-headless
 setuptools==60.9.0
 # YOLOv5 requirements
