@@ -3,3 +3,4 @@ pandas
 streamlit
 tritonclient[all]
 opencv-python
+opencv-python-headless
