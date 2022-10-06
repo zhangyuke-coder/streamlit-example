@@ -4,3 +4,4 @@ streamlit
 tritonclient[all]
 opencv-python
 opencv-python-headless
+setuptools==60.9.0
