@@ -1,4 +1,5 @@
-protobuf==3.13.0
+
+streamlit
 tritonclient[all]
 
 grpc
@@ -8,4 +9,3 @@ setuptools
 numpy
 opencv-python-headless
 
-streamlit
