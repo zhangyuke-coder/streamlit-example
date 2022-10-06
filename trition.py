@@ -1,5 +1,4 @@
-from enum import Flag
-from numpy import tri
+
 import tritonclient.grpc as grpclient
 from tritonclient.utils import InferenceServerException
 import sys
