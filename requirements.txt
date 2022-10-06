@@ -14,7 +14,7 @@ opencv-python-headless
 
 
 # Logging -------------------------------------
-tensorboard>=2.4.1
+
 # wandb
 
 # Plotting ------------------------------------
