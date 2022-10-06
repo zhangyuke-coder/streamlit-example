@@ -1,11 +1,8 @@
-
 streamlit
 tritonclient[all]
-
 grpc
 opencv-python-headless
-setuptools
-
+setuptoolsd
 numpy
-opencv-python-headless
+
 
