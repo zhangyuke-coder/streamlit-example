@@ -1,8 +1,7 @@
 
 tritonclient[all]
-grpc
 opencv-python-headless
-setuptoolsd
+setuptool
 numpy
 
 
