@@ -1,4 +1,4 @@
-protobuf==3.10.1
+protobuf==3.13.0
 tritonclient[all]
 
 grpc
